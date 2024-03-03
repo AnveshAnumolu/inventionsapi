@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.4824, 33.8926]
+      },
+      "properties": {
+        "name": "Wheel",
+        "Inventor": "Unknown Inventor",
+        "Location": "Mesopotamia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.6733, 30.9835]
+      },
+      "properties": {
+        "name": "Writing System (Cuneiform)",
+        "Inventor": "Unknown Inventor",
+        "Location": "Sumer (Mesopotamia)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4194, 39.905]
+      },
+      "properties": {
+        "name": "Paper",
+        "Inventor": "Cai Lun",
+        "Location": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2749, 49.9929]
+      },
+      "properties": {
+        "name": "Printing Press",
+        "Inventor": "Johannes Gutenberg",
+        "Location": "Mainz, Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9798, 51.033]
+      },
+      "properties": {
+        "name": "Compass",
+        "Inventor": "Unknown Inventor",
+        "Location": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4194, 39.905]
+      },
+      "properties": {
+        "name": "Gunpowder",
+        "Inventor": "Unknown Inventor",
+        "Location": "China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.0819, 52.3555]
+      },
+      "properties": {
+        "name": "Steam Engine",
+        "Inventor": "Thomas Savery and Thomas Newcomen",
+        "Location": "England"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05880818, 42.35497796]
+      },
+      "properties": {
+        "name": "Telegraph",
+        "Inventor": "Samuel Morse",
+        "Location": "Boston, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.05880818, 42.35497796]
+      },
+      "properties": {
+        "name": "Telephone",
+        "Inventor": "Alexander Graham Bell",
+        "Location": "Boston, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0059413, 40.7127837]
+      },
+      "properties": {
+        "name": "Light Bulb",
+        "Inventor": "Thomas Edison",
+        "Location": "New York City, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522, 48.8566]
+      },
+      "properties": {
+        "name": "Radio",
+        "Inventor": "Various inventors",
+        "Location": "Various locations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.4599, 36.0189]
+      },
+      "properties": {
+        "name": "Airplane",
+        "Inventor": "Wright brothers (Wilbur and Orville Wright)",
+        "Location": "Kitty Hawk, North Carolina, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.7332, 52.3759]
+      },
+      "properties": {
+        "name": "Automobile",
+        "Inventor": "Karl Benz",
+        "Location": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5074]
+      },
+      "properties": {
+        "name": "Computer",
+        "Inventor": "Various inventors",
+        "Location": "Various locations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.7129, 37.0902]
+      },
+      "properties": {
+        "name": "Internet",
+        "Inventor": "Various inventors",
+        "Location": "Various locations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.7129, 37.0902]
+      },
+      "properties": {
+        "name": "Smartphone",
+        "Inventor": "Various inventors",
+        "Location": "Various locations"
+      }
+    }
+  ]
+}
